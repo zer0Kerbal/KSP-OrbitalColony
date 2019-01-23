@@ -32,8 +32,8 @@
 
 # 3:SOURCEFILE, DESTDIR
 3:OrbitalColony.version,GameData/OrbitalColony
-3:LICENSE.md,GameData/KerbalHotSeat
-3:README.md,GameData/KerbalHotSeat
+3:LICENSE.md,GameData/OrbitalColony
+3:README.md,GameData/OrbitalColony
 
 
 #
