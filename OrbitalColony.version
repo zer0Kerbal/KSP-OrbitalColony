@@ -1,0 +1,20 @@
+{
+  "NAME": "Orbital Colony",
+  "URL": "http://ksp.spacetux.net/OrbitalColony",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/KSP-OrbitalColony/releases",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "KSP-OrbitalColony"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 2,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 4,
+    "PATCH": 1
+  }
+}
