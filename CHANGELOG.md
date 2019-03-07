@@ -1,5 +1,8 @@
 # Changelog
 
+1.0.2.1
+    Added whitelist file for the new ReStock mod
+    
 1.0.2
 	Adoption by Linuxgurugamer
 	Added bulkheadProfiles line to all parts
