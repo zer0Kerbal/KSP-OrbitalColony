@@ -1,5 +1,9 @@
 # Changelog
 
+1.0.3
+	Added CLS info to passable truss segments
+	Fixed some typos in configs
+
 1.0.2.1
     Added whitelist file for the new ReStock mod
     
